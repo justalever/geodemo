@@ -1,24 +1,10 @@
-# README
+![Geolocation Rails Stimulus.js](https://f001.backblazeb2.com/file/webcrunch/geolocation-rails-stimulus.jpg)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Add Geolocation to Search with Rails and Stimulus.js
 
-Things you may want to cover:
+In this tutorial, I'll show you how to enhance a search form in a Rails application with geolocation using Stimulus.js. 
 
-* Ruby version
+By integrating geolocation capabilities, users can conveniently search for locations based on their current position.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- 📕 Continue reading here: https://webcrunch.com/posts/geolocation-rails-stimulus
+- 📺 Prefer video? Watch it here: https://youtu.be/GkqZoIK1HhY
